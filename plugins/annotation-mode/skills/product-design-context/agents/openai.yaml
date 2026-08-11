@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prototype Context"
+  short_description: "Save and read this plugin's prototype references"
+  default_prompt: "Set up prototype context with my product URLs, Figma files, screenshots, codebase paths, Storybook, tokens, and brand assets."
+policy:
+  allow_implicit_invocation: false

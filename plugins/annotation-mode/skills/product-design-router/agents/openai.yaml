@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prototype Workflows"
+  short_description: "Route URL, image, and annotation prototype requests"
+  default_prompt: "Choose the right workflow for this URL, visual reference, or annotated HTML prototype."
+policy:
+  allow_implicit_invocation: false

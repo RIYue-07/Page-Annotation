@@ -1,0 +1,20 @@
+{
+  "name": "page-annotation",
+  "interface": {
+    "displayName": "Page Annotation"
+  },
+  "plugins": [
+    {
+      "name": "annotation-mode",
+      "source": {
+        "source": "local",
+        "path": "./plugins/annotation-mode"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

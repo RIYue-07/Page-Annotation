@@ -1,0 +1,4 @@
+interface:
+  display_name: "Annotation Mode"
+  short_description: "Annotate HTML prototypes with stable, persistent markers"
+  default_prompt: "Use $annotation-mode to add or review floating annotation mode in this HTML prototype."
